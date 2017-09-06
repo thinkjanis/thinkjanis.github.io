@@ -26,7 +26,11 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+sass:
+    style: compressed
 #plugins:
+
+# Disabled because there are no posts
 #  - jekyll-feed
 
 # Exclude from processing.
