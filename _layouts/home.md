@@ -7,10 +7,9 @@ layout: default
       Hello World
     </h1>
     <p class="subtitle">
+      <i class="fa fa-github" aria-hidden="true"></i>
       My first website with <strong>Bulma</strong>!
     </p>
-
     {{ content }}
-
   </div>
 </section>
