@@ -8,7 +8,10 @@
   <title>{{ site.title }}</title>
   <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
-<body>
-  {{ content }}
+<body id="site">
+  <div id="wrapper">
+    {{ content }}
+  </div>
+  {% include footer.md %}
 </body>
 </html>
