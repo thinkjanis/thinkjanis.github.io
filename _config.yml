@@ -28,6 +28,16 @@ github_username:  jekyll
 markdown: kramdown
 sass:
     style: compressed
+  
+# Global permalink style
+permalink: /:title/
+
+# Cover images for portfolio items
+defaults:
+  - scope:
+      path: "img"
+    values:
+      image: true
 #plugins:
 
 # Disabled because there are no posts
