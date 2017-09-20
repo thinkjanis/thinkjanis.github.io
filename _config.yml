@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
 landing_subtitle_one: Hi there! My name is
 landing_subtitle_two: Digital media nerd blogging about tech
 myname: Janis Solks
-profile_photo: http://gdurl.com/DYxP
+profile_photo: https://gdurl.com/DYxP
 handle: thinkjanis
 
 

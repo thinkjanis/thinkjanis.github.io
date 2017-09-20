@@ -2,7 +2,7 @@
 layout: post
 title:  "The case for switching from Windows to Linux based alternatives"
 date:   2017-09-02 12:00:00 -0600
-imgurl: "http://gdurl.com/UY5T"
+imgurl: "https://gdurl.com/UY5T"
 item_url: "https://hackernoon.com/the-case-for-switching-from-windows-to-linux-based-alternatives-9951ba63f97f"
 ---
 <h1 class="title is-size-2">
