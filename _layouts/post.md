@@ -1,11 +1,15 @@
 ---
 layout: default
 ---
+
+{% include header.md %}
+
 <section class="section">
   <div class="container">
-    <h1 class="title">
-      {{ page.title }}
-    </h1>
-    {{ content }}
+    <div class="columns is-centered">
+      <div class="column is-8-desktop">
+          {{ content }}
+      </div>
+    </div>
   </div>
 </section>

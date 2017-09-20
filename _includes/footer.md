@@ -1,16 +1,8 @@
 <footer class="footer">
-    <div class="container">
-      <div class="content has-text-centered">
-        <p>
-          <strong>Bulma</strong> by <a href="http://jgthms.com">Jeremy Thomas</a>. The source code is licensed
-          <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
-          is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC ANS 4.0</a>.
-        </p>
-        <p>
-          <a class="icon" href="https://github.com/jgthms/bulma">
-            <i class="fa fa-github"></i>
-          </a>
-        </p>
-      </div>
+  <div class="container">
+    <div class="content has-text-centered">
+      <p class="is-size-7">Made with <i class="fa fa-heart text-icon" aria-hidden="true"></i> by Yours Truly with <a href="http://bulma.io" target="_blank">Bulma</a> CSS framework. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. Hosted on <a href="https://github.com/thinkjanis" target="_blank">GitHub</a>.</p>
+      <p class="is-size-7">© 2017 thinkjanis.github.io</p>
     </div>
-  </footer>
+  </div>
+</footer>

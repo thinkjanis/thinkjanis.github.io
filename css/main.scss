@@ -1,5 +1,6 @@
 ---
 ---
+@import 'variables';
 @import 'bulma';
 @import 'font-awesome';
 
@@ -11,4 +12,34 @@
 
 #wrapper {
   flex: 1;
+}
+
+#site .footer {
+  padding: 2rem 0;
+}
+
+.fa.text-icon {
+  vertical-align: middle;
+}
+
+.content h2.is-home {
+  font-weight: 300;
+}
+
+.m-vertical-1 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.p-1 {
+  padding: 1rem;
+}
+
+.h-logo {
+  font-style: italic;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.fa.fa-external-link {
+  font-size: 1rem;
 }
