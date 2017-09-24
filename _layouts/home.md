@@ -11,7 +11,7 @@ layout: default
           {{ site.landing_subtitle_one }}
         </h2>
 
-        <h1 class="title has-text-weight-bold is-size-1 is-size-2-mobile">
+        <h1 class="site-myname title has-text-weight-bold is-size-1-mobile">
           {{ site.myname }}
         </h1>
 
