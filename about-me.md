@@ -14,7 +14,14 @@ title: "About me"
   </div>
 
   <div class="column is-8-tablet">
-    <p class="is-size-5">My name is Janis and I am a millennial from Latvia. I’ve always been fascinated with technology and enjoy learning various topics, especially Finance and Economics. For 2 years I have worked as a web developer and spent 1 year abroad in Denmark studying, and working on web projects. Currently, I am blogging about tech on Medium. You can check it out <a href="https://medium.com/@{{ site.handle }}" target="_blank">here</a>.</p>    
+    <p class="is-size-5">
+      My name is Janis and I am a millennial from Latvia. I’ve always been fascinated with technology and enjoy learning about
+      topics like Finance and Economics. I have worked as a web developer and spent 1 year abroad in Denmark studying, and
+      working on web projects. Currently, I am pursuing writing and seeking new opportunities. You can check out my medium
+      profile <a href="https://medium.com/@{{ site.handle }}" target="_blank">here</a>. If you wish to take a look
+      at my work experience, please visit my <a href="https://angel.co/{{ site.handle }}" target="_blank">AngelList</a> or
+      <a href="https://linkedin.com/in/{{ site.handle }}" target="_blank">LinkedIn</a>.
+    </p>
   </div>
 
 </div>

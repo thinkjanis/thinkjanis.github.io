@@ -55,7 +55,7 @@ layout: default
 
 </section>
 
-<section class="m-vertical-1">
+<section class="post-container m-vertical-1">
   <div class="container">
     <div class="columns is-multiline">
 
@@ -67,6 +67,9 @@ layout: default
               <figure class="image is-16by9">
                 <a href="{{ post.url | relative_url }}">
                   <img src="{{ post.imgurl }}" alt="{{ post.title }}">
+                  <span class="tag is-dark">
+                    {{ post.tag }}
+                  </span>
                 </a>
               </figure>
             </div>

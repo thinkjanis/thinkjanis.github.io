@@ -1,9 +1,8 @@
 ---
----
+--- 
 @import 'variables';
 @import 'bulma';
 @import 'font-awesome';
-
 #site {
   display: flex;
   min-height: 100vh;
@@ -19,7 +18,7 @@
 }
 
 .site-myname.title {
-    font-size: 5rem;
+  font-size: 5rem;
 }
 
 .fa.text-icon {
@@ -34,6 +33,7 @@
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
 .p-1 {
   padding: 1rem;
 }
@@ -50,4 +50,10 @@
 
 .fa.fa-external-link {
   font-size: 1rem;
+}
+
+.post-container .tag {
+  position: relative;
+  margin-left: 0.3rem;
+  margin-bottom: 0.3rem;
 }

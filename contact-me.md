@@ -7,12 +7,11 @@ title: "Contact me"
 
 <p class="m-b-1-25">If you wish to contact me or say hi, please leave your message below or write me via <a href="mailto:thinkjanis@gmail.com">email</a>.</p>
 
-<form action="https://formspree.io/thinkjanis@gmail.com"
-      method="POST">
+<form action="https://formspree.io/thinkjanis@gmail.com" method="POST">
 
   <div class="field">
     <div class="control has-icons-left">
-      <input name ="name" class="input is-medium-mobile" type="text" placeholder="Your name">
+      <input name="name" class="input is-medium-mobile" type="text" placeholder="Your name">
       <span class="icon is-small is-left">
         <i class="fa fa-user"></i>
       </span>
@@ -26,11 +25,11 @@ title: "Contact me"
         <i class="fa fa-envelope"></i>
       </span>
     </div>
-  </div> 
+  </div>
 
   <div class="field">
     <div class="control">
-      <textarea  name="message" class="textarea" placeholder="Your message"></textarea>
+      <textarea name="message" class="textarea" placeholder="Your message"></textarea>
     </div>
   </div>
 
