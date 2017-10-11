@@ -67,9 +67,6 @@ layout: default
               <figure class="image is-16by9">
                 <a href="{{ post.url | relative_url }}">
                   <img src="{{ post.imgurl }}" alt="{{ post.title }}">
-                  <span class="tag is-dark">
-                    {{ post.tag }}
-                  </span>
                 </a>
               </figure>
             </div>
