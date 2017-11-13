@@ -60,7 +60,7 @@ layout: default
     <div class="columns is-multiline">
 
       {% for post in site.posts %}
-        <div class="column is-half">
+        <div class="column">
           <div class="card">
         
             <div class="card-image">
