@@ -35,14 +35,14 @@ sass:
 # Global permalink style
 permalink: /:title/
 
-# Cover images for portfolio items
-defaults:
-  - scope:
-      path: "img"
-    values:
-      image: true
-plugins:
-- jekyll-feed
+#defaults:
+# - scope:
+#    path: "img"
+#    values:
+#      image: true
+
+# plugins:
+# - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
