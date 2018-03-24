@@ -60,7 +60,7 @@ layout: default
     <div class="columns is-multiline">
 
       {% for post in site.posts %}
-        <div class="column">
+        <div class="column is-10 is-offset-1">
           <div class="card">
         
             <div class="card-image">
@@ -72,7 +72,7 @@ layout: default
             </div>
             
             <div class="card-content has-text-centered p-1">
-                <h3 class="is-uppercase is-size-7 has-text-weight-semibold">{{ post.title }}</h3>
+                <h3 class="is-uppercase is-size-6 is-size-7-touch has-text-weight-semibold">{{ post.title }}</h3>
             </div>
 
           </div>
