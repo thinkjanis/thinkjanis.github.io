@@ -60,12 +60,12 @@ layout: default
     <div class="columns is-multiline">
 
       {% for post in site.posts %}
-        <div class="column is-10 is-offset-1">
+        <div class="column is-8 is-offset-2">
           <div class="card">
         
             <div class="card-image">
               <figure class="image is-16by9">
-                <a href="{{ post.url | relative_url }}">
+                <a href="{{ post.item_url }}" target="_blank">
                   <img src="{{ post.imgurl }}" alt="{{ post.title }}">
                 </a>
               </figure>
