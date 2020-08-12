@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="hero is-light is-medium">
+<section class="hero is-medium">
   
   <div class="hero-body">
     <div class="container">
@@ -19,16 +19,10 @@ layout: default
             {{ site.landing_subtitle_two }}
         </h2>
 
-        <a href="https://medium.com/@{{ site.handle }}" target="_blank">
+        <a href="https://www.linkedin.com/in/{{ site.handle }}" target="_blank">
           <span class="icon is-medium">
-              <i class="fa fa-lg fa-medium"></i>
-            </span>
-        </a>
-        
-        <a href="https://angel.co/{{ site.handle }}" target="_blank">
-          <span class="icon is-medium">
-              <i class="fa fa-lg fa-angellist"></i>
-            </span>
+            <i class="fa fa-lg fa-linkedin"></i>
+          </span>
         </a>
 
         <a href="https://twitter.com/{{ site.handle }}" target="_blank">
@@ -46,7 +40,7 @@ layout: default
         <div class="container">
           <ul>
             <li><a href="/about-me">About me</a></li>
-            <li><a class="has-text-weight-semibold" href="/">My work</a></li>
+            <!--<li><a class="has-text-weight-semibold" href="/">My work</a></li>-->
             <li><a href="/contact-me">Contact me</a></li>
           </ul>
         </div>
@@ -55,7 +49,7 @@ layout: default
 
 </section>
 
-<section class="post-container m-vertical-1">
+<!-- <section class="post-container m-vertical-1">
   <div class="container">
     <div class="columns is-multiline">
 
@@ -81,4 +75,4 @@ layout: default
 
     </div>
   </div>
-</section>
+</section> -->

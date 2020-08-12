@@ -5,9 +5,9 @@ title: "Contact me"
 
 <h1 class="title is-size-2">{{ page.title }}</h1>
 
-<p class="m-b-1-25">If you wish to contact me or say hi, please leave your message below or write me via <a href="mailto:thinkjanis@gmail.com">email</a>.</p>
+<p class="m-b-1-25">If you wish to contact me or say hi, please leave your message below or write me via <a href="mailto:cv@thinkjanis.com">email</a>.</p>
 
-<form action="https://formspree.io/thinkjanis@gmail.com" method="POST">
+<form action="https://formspree.io/cv@thinkjanis.com" method="POST">
 
   <div class="field">
     <div class="control has-icons-left">

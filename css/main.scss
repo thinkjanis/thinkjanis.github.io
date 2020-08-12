@@ -15,6 +15,7 @@
 
 #site .footer {
   padding: 2rem 0;
+  background-color: #ffffff;
 }
 
 .site-myname.title {
@@ -56,4 +57,12 @@
   position: relative;
   margin-left: 0.3rem;
   margin-bottom: 0.3rem;
+}
+
+#wrapper .hero.is-light {
+  background-color: #ffffff;
+}
+
+.hero-body a {
+  color: #363636;
 }

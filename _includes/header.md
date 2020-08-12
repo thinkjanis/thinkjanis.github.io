@@ -18,9 +18,9 @@
       About me
     </a>
 
-    <a class="navbar-item" href="/">
+    <!--<a class="navbar-item" href="/">
       My work
-    </a>
+    </a>-->
 
     <a class="navbar-item" href="/contact-me">
       Contact me
