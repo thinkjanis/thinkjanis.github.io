@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Janis Solks - IT
+title: Janis Solks - IT Proffessional
 description: > # this means to ignore newlines until "baseurl:"
-  Digital media nerd blogging about Technology
+  Technology enthusiast specializing in IT Administration
 landing_subtitle_one: Hi there! My name is
-landing_subtitle_two: I AM A PASSIONATE IT PROFESSIONAL
+landing_subtitle_two: I AM A IT PROFESSIONAL
 myname: Janis Solks
 handle: thinkjanis
 

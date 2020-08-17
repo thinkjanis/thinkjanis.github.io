@@ -19,18 +19,6 @@ layout: default
             {{ site.landing_subtitle_two }}
         </h2>
 
-        <a href="https://www.linkedin.com/in/{{ site.handle }}" target="_blank">
-          <span class="icon is-medium">
-            <i class="fa fa-lg fa-linkedin"></i>
-          </span>
-        </a>
-
-        <a href="https://twitter.com/{{ site.handle }}" target="_blank">
-          <span class="icon is-medium">
-              <i class="fa fa-lg fa-twitter"></i>
-            </span>
-        </a>
-
       </div>
     </div>
   </div>

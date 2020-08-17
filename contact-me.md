@@ -5,7 +5,17 @@ title: "Contact me"
 
 <h1 class="title is-size-2">{{ page.title }}</h1>
 
-<p class="m-b-1-25">If you wish to contact me or say hi, please leave your message below or write me via <a href="mailto:cv@thinkjanis.com">email</a>.</p>
+<p class="m-b-1-25">If you wish to contact me, please leave your message below or write me via <a href="mailto:cv@thinkjanis.com">email</a>. <a href="https://www.linkedin.com/in/{{ site.handle }}" target="_blank">
+          <span class="icon is-medium">
+            <i class="fa fa-lg fa-linkedin"></i>
+          </span>
+        </a>
+
+        <a href="https://twitter.com/{{ site.handle }}" target="_blank">
+          <span class="icon is-medium">
+              <i class="fa fa-lg fa-twitter"></i>
+            </span>
+        </a></p>
 
 <form action="https://formspree.io/cv@thinkjanis.com" method="POST">
 

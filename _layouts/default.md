@@ -14,7 +14,7 @@
 
 <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="{{ 'css/main.css' | relative_url }}">
-  <link rel="icon" type="image/png" href="favicon.png" sizes="152x152">
+  <link rel="icon" type="image/png" href="{{ 'favicon.png' | relative_url }}" sizes="152x152">
 </head>
 
 <body id="site">

@@ -2,8 +2,8 @@
 
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="h-logo navbar-item is-uppercase is-italic is-size-4" href="/">
-      think<br>janis
+    <a class="h-logo navbar-item is-italic is-size-4" href="/">
+      Janis<br>Solks
     </a>
 
     <div class="navbar-burger burger" data-target="navMenu">
