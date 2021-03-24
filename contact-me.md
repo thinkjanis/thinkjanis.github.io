@@ -17,7 +17,7 @@ title: "Contact me"
             </span>
         </a></p>
 
-<form action="https://formspree.io/cv@thinkjanis.com" method="POST">
+<form action="https://formspree.io/f/mgerwzoo" method="POST">
 
   <div class="field">
     <div class="control has-icons-left">
